@@ -36,6 +36,7 @@ int main() {
         //!-  To print the File Name on Terminal
         //!-  printf("%s\n", dp->d_name);
 
+        //!-  To ignore "Files_List.txt" in the Generated Text File.
         if (strcmp(dp->d_name, "Files_List.txt")) {
             //!-  To ignore "." in the Generated Text File.
             if (strcmp(dp->d_name, ".")) {
