@@ -7,3 +7,7 @@ Code_1.c:
 Code to create a file and insert an array of Random data.
 Open that file again and read the data again into an array.
 Used Merge Sort to Sort that array.
+
+Code_2.c:
+Code to Read List of Files from Current Directory.
+Creating "Files_List.txt" file that will Contain all the Files Names.
