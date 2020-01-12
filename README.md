@@ -3,6 +3,10 @@
 This Repository holds C codes that perfom some basic functions.
 The functionality of these code can be extend as per requirements.
 
+Linked_List:
+This directory contains Linked_List.c, Linked_List.h, Test_Example.c and Makefile.
+This is a Basic implementation of Linked List.
+
 Stack Directory:
 This directory contains Stack.c and Stack.h files.
 This is a Basic implementation of Stack using Array.
