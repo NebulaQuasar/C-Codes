@@ -23,3 +23,6 @@ Creating "Files_List.txt" file that will Contain all the Files Names.
 
 Code_3.c:
 Code to Sort the array using the Insertion Sorting.
+
+Code_4.c:
+Code to Compare the Input String with the Particular String.
