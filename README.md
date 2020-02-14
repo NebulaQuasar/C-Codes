@@ -20,3 +20,6 @@ Used Merge Sort to Sort that array.
 Code_2.c:
 Code to Read List of Files from Current Directory.
 Creating "Files_List.txt" file that will Contain all the Files Names.
+
+Code_3.c:
+Code to Sort the array using the Insertion Sorting.
