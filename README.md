@@ -26,3 +26,6 @@ Code to Sort the array using the Insertion Sorting.
 
 Code_4.c:
 Code to Compare the Input String with the Particular String.
+
+Program_Set1.c:
+Tricky C codes (along with there outputs). The codes are numbered from 0 to 11 and are commented out.  
